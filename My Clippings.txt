@@ -1373,3 +1373,8 @@ The Eye of the World: Book One of The Wheel of Time (Jordan, Robert)
 
 
 ==========
+Definitive Guide to DAX, The (Business Skills) (Marco, Russo)
+- Your Highlight on page 148 | Location 3686-3688 | Added on Saturday, April 27, 2024 6:20:52 PM
+
+CALCULATE invalidates any row context. It automatically adds as filter arguments all the columns that are currently being iterated in any row context—filtering their actual value in the row being iterated.
+==========
